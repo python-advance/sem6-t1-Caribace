@@ -1,15 +1,15 @@
 {
     "Book": [
         {
-            "guest_name": "Venom",
-            "guest_surname": "Dreadful",
-            "email": "venom@space.com",
+            "guest_name": "Mikhail",
+            "guest_surname": "Nikanorov",
+            "email": "caribace@mail.ru",
             "status": "in processing"
         },
         {
-            "guest_name": "REY12",
-            "guest_surname": "Scalator",
-            "email": "Harold@gmail.com",
+            "guest_name": "Caribace",
+            "guest_surname": "Caribovich",
+            "email": "Caribovich@mail.ru",
             "status": "Guest deleted"
         }
     ]
